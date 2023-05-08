@@ -27,3 +27,4 @@ This assignment is broken down into the following tasks:
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.scatter.html
 * https://stackoverflow.com/questions/14300137/making-matplotlib-scatter-plots-from-dataframes-in-pythons-pandas
 * https://stackoverflow.com/questions/12236566/setting-different-color-for-each-series-in-scatter-plot-on-matplotlib
+* https://www.python-graph-gallery.com/scatterplot-with-regression-fit-in-matplotlib
