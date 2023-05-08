@@ -1,4 +1,5 @@
-# Module5-Challenge, using Matplotlib, generate a technical report for Pymaceuticals, Inc.
+# Module5-Challenge
+## Using Matplotlib, generate a technical report for Pymaceuticals, Inc.
 
 ### Instructions
 
