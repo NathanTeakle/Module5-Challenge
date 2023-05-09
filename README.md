@@ -1,8 +1,8 @@
 # Module5-Challenge
 ## Using Matplotlib, generate a technical report for Pymaceuticals, Inc.
 
-### Instructions
-## More granular instructions can be found inside the Jupyter Notebook file (pymaceuticals_starter.ipynb).
+## Instructions
+### More granular instructions can be found inside the Jupyter Notebook file (pymaceuticals_starter.ipynb).
 
 This assignment is broken down into the following tasks:
 
